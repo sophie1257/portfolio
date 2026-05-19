@@ -41,7 +41,7 @@ export default function Projects() {
 
             <div className="project-links">
               <a
-                href="https://lullyday-portfolio-ry4b.vercel.app"
+                href="https://lullyday-portfolio.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
                 className="primary-btn small"
