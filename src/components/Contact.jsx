@@ -37,12 +37,23 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://lullyday-portfolio-ry4b.vercel.app"
+            href="https://lullyday-portfolio.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
             LullyDay
           </a>
+        </div>
+
+        <div className="copyright-notice">
+          <p>
+            © 2026 Portfolio. Designed and developed by Seongjeon Baek.
+          </p>
+          <p>
+            본 포트폴리오의 디자인, 코드, 기획 및 콘텐츠는 채용 검토
+            목적으로만 제공되며, 사전 동의 없는 복제·수정·배포·상업적
+            사용을 금합니다.
+          </p>
         </div>
       </motion.div>
     </section>
